@@ -13,7 +13,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'simple_form'
 gem 'materialize-sass'
-
+gem 'font-awesome-rails', '~> 4.6', '>= 4.6.3.1'
+gem 'dragonfly', '~> 1.0', '>= 1.0.12'
 
 group :development, :test do
   gem 'byebug'
